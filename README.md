@@ -1,6 +1,6 @@
 # guppyR
 
-Wrapper adapting the [Guppy](https://github.com/daniel3735928559/guppy) equation editor for use as an input in Shiny apps using [htmlwidgets](http://www.htmlwidgets.org).  This package provides facilities for feedback on equation correctness on the client and an API for sanitized server-side function evaluation using only whitelisted symbols.
+Wrapper adapting the [Guppy](https://github.com/daniel3735928559/guppy) equation editor for use as an input in Shiny apps.  This package provides facilities for feedback on equation correctness on the client and an API for sanitized server-side function evaluation using whitelisted symbols.
 
 ## License
 

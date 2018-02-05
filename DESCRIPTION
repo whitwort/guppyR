@@ -2,7 +2,7 @@ Package: guppyR
 Title: A Shiny input using the Guppy mathematics widget.
 Version: 0.1.0
 Authors@R: person("Gregg", "Whitworth", email = "whitworthg@wlu.edu", role = c("aut", "cre"))
-Description: HTMLWidgets wrapper adapting the Guppy equation editor for use as an input in Shiny apps. Provides facilities for feedback on equation correctness on the client and sanitized server-side function evaluation.
+Description: Wrapper adapting the Guppy equation editor for use as an input in Shiny apps. Provides facilities for feedback on equation correctness on the client and sanitized server-side function evaluation.
 Depends: R (>= 3.3.3)
 License: GPL-3
 Encoding: UTF-8
